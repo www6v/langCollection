@@ -1,5 +1,5 @@
 # Language Examples
-[Java Examples](https://github.com/www6v/jDemo)  
-[Golang Examples](https://github.com/www6v/gDemo)  
-[Rust Examples](https://github.com/www6v/rustDemo)  
-[Python Examples](https://github.com/www6v/pyDemo)  
+[Java Examples](https://github.com/www6v/jExamples)    
+[Golang Examples](https://github.com/www6v/gExamples)  
+[Rust Examples](https://github.com/www6v/rustExamples)  
+[Python Examples](https://github.com/www6v/pyExamples)  
