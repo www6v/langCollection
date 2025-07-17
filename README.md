@@ -1,6 +1,6 @@
 # Language Examples
-[Java Examples](https://github.com/www6v/jExamples)    
-[Golang Examples](https://github.com/www6v/gExamples)  
+[Java Examples](https://github.com/www6v/jExamples)  ***  
+[Golang Examples](https://github.com/www6v/gExamples)   ***
+[Python Examples](https://github.com/www6v/pyExamples)   ***
 [Rust Examples](https://github.com/www6v/rustExamples)  
-[Python Examples](https://github.com/www6v/pyExamples)  
 [Shell Examples](https://github.com/www6v/shExamples)
